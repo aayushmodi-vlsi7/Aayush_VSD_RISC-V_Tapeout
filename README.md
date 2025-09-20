@@ -4,65 +4,74 @@ This Repository contains all documentation of RISC-V SOC implementation
 # 🚀 RISC-V SoC Tapeout Program — VSD
 
 <div align="center">
-
-![RISC-V SoC Tapeout](https://img.shields.io/badge/RISC--V%20SoC%20Tapeout-4c8bf5?style=for-the-badge&logo=riscv)
-![VSD Program](https://img.shields.io/badge/VSD%20Program-fe3d2f?style=for-the-badge)
-![Participants](https://img.shields.io/badge/Participants-3500%2B-00cc00?style=for-the-badge)
-![Made in India](https://img.shields.io/badge/Made%20in%20India-ff9933?style=for-the-badge)
-
+    <img src="https://img.shields.io/badge/RISC--V%20SoC%20Tapeout-4c8bf5?style=for-the-badge&logo=riscv" alt="RISC-V SoC Tapeout">
+    <img src="https://img.shields.io/badge/VSD%20Program-fe3d2f?style=for-the-badge" alt="VSD Program">
+    <img src="https://img.shields.io/badge/Participants-3500%2B-00cc00?style=for-the-badge" alt="Participants">
+    <img src="https://img.shields.io/badge/Made%20in%20India-ff9933?style=for-the-badge" alt="Made in India">
 </div>
 
 ---
 
-## 🎯 **About the Program**
+## 📌 **Program Overview**
 
-The **RISC-V SoC Tapeout Program** is a major initiative by **VLSI System Design (VSD)** that aims to empower over **3500+ participants** to contribute towards India’s semiconductor ecosystem. This program covers the entire SoC design process, from **RTL to GDSII**, with the use of **open-source EDA tools**.
+The **RISC-V SoC Tapeout Program** by **VLSI System Design (VSD)** is an initiative to empower **3500+ participants** in designing and creating **System-on-Chip (SoC)** solutions using **open-source EDA tools**. From **RTL to GDSII**, participants will cover the full spectrum of chip design, contributing to India’s semiconductor growth.
 
-**In collaboration with IIT Gandhinagar**, this initiative offers hands-on training, mentorship, and an opportunity to be at the forefront of India’s open-source semiconductor design revolution.
-
-### 🎓 **Top 50 Students Will Get**:
-- Direct mentorship under **IIT Gandhinagar professors**.
-- Hands-on experience with **industry-grade Synopsys tools**.
-
----
-
-## 📅 **Program Breakdown**
-
-| **Week** | **Focus Area**                        | **Tools Used**            |
-|----------|---------------------------------------|---------------------------|
-| [**Week 0**](Week0/README.md) | Environment Setup & Tool Installation | **Ubuntu VM**, **Yosys**, **Icarus Verilog**, **GTKWave** |
+### 🔑 **Key Highlights**
+- **Collaborative Learning**: Work with experts from **IIT Gandhinagar** and **VLSI professionals**.
+- **Hands-on Experience**: Engage in practical design and simulation of SoCs.
+- **Top 50 Students**: Opportunity to work with **industry-grade Synopsys tools** and mentorship from professors.
 
 ---
 
-## 🛠 **Key Learnings from Week 0**
+## 🛠️ **What I’ve Learned So Far**
 
-- **VM Setup**: Created a fully functional **Ubuntu 20.04 VM** within **Oracle VirtualBox**.
-- **Tool Installation**: Installed **Yosys** (synthesis), **Icarus Verilog** (simulation), and **GTKWave** (waveform analysis).
-
----
-
-## 📈 **Progress So Far**
-
-[![Week 0](https://img.shields.io/badge/Week%200-Completed-28a745?style=for-the-badge)](https://github.com/Nirbhay1909/Nirbhay_VSD-Tapeout-Program/tree/main/Week0)  
-[![Week 1](https://img.shields.io/badge/Week%201-🚧%20In%20Progress-ffcc00?style=for-the-badge)](https://github.com/Nirbhay1909/Nirbhay_VSD-Tapeout-Program/tree/main/Week1)  
-[![Week 2](https://img.shields.io/badge/Week%202-Upcoming-17a2b8?style=for-the-badge)](https://github.com/Nirbhay1909/Nirbhay_VSD-Tapeout-Program/tree/main/Week2)
+### 🗓️ **Week 0: Setting Up the Foundation**
+- **VM Setup**: Configured **Ubuntu 20.04** VM using **Oracle VirtualBox**.
+- **Tools Installed**:
+  - **Yosys**: Synthesis tool for RTL design.
+  - **Icarus Verilog**: Used for simulating Verilog code.
+  - **GTKWave**: Analyzing simulation waveforms.
 
 ---
 
-## 🙌 **Acknowledgments**
+## 💡 **Progress Tracker**
 
-Big thanks to the following for their unwavering support and guidance:
-
-- **Kunal Ghosh** and the **VSD team** for mentorship.
-- **RISC-V International**, **ISM**, **VSI**, and **Efabless** for making open-source silicon a reality.
+[![Week 0](https://img.shields.io/badge/Week%200-✅%20Completed-brightgreen?style=for-the-badge)](https://github.com/Nirbhay1909/Nirbhay_VSD-Tapeout-Program/tree/main/Week0)  
+[![Week 1](https://img.shields.io/badge/Week%201-🚧%20In%20Progress-yellow?style=for-the-badge)](https://github.com/Nirbhay1909/Nirbhay_VSD-Tapeout-Program/tree/main/Week1)  
+[![Week 2](https://img.shields.io/badge/Week%202-Upcoming-blue?style=for-the-badge)](https://github.com/Nirbhay1909/Nirbhay_VSD-Tapeout-Program/tree/main/Week2)
 
 ---
 
-## 🔗 **Useful Resources**
+## 🔍 **Detailed Week-by-Week Overview**
 
-- 🌍 [VSD Official Website](https://vsdiat.vlsisystemdesign.com/)
-- 📖 [RISC-V International](https://riscv.org/)
-- 🏭 [Efabless Platform](https://efabless.com/)
+### Week 0: Environment Setup
+- **Objective**: Set up the environment for RTL design and simulation.
+- **Tools Used**: 
+  - Ubuntu VM with **Yosys**, **Icarus Verilog**, **GTKWave**.
+  - Successfully ran a simple Verilog simulation.
+
+### Week 1: Coming Soon
+- Focus on **synthesis** of RTL to gate-level netlist.
+- Introduction to **timing analysis** and **power analysis**.
+
+### Week 2: Upcoming
+- Work on **physical design** and creating the GDSII layout.
+
+---
+
+## 🙏 **Special Thanks**
+
+A heartfelt thanks to everyone involved in making this program a reality:
+- **Kunal Ghosh** and the entire **VSD team** for their mentorship and support.
+- **RISC-V International**, **ISM**, **VSI**, and **Efabless** for promoting open-source silicon.
+
+---
+
+## 🌐 **Resources**
+
+- **Official Website**: [VSD Official Website](https://vsdiat.vlsisystemdesign.com/)
+- **RISC-V Resources**: [RISC-V International](https://riscv.org/)
+- **Open-Source Platform**: [Efabless Platform](https://efabless.com/)
 
 ---
 
@@ -73,24 +82,3 @@ Big thanks to the following for their unwavering support and guidance:
 </div>
 
 ---
-
-## 💻 **Code Example: Setting Up Your Environment**
-
-Here’s how to set up your **Ubuntu 20.04 VM** and install essential tools for **RISC-V SoC design**:
-
-### 1. **Install Oracle VirtualBox** (for VM management):
-
-```bash
-sudo apt update
-sudo apt install virtualbox
-
-# Install Yosys for synthesis
-sudo apt install yosys
-
-# Install Icarus Verilog for simulation
-sudo apt install iverilog
-
-# Install GTKWave for waveform viewing
-sudo apt install gtkwave
-
-
