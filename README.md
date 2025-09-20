@@ -84,3 +84,13 @@ Here’s how to set up your **Ubuntu 20.04 VM** and install essential tools for 
 sudo apt update
 sudo apt install virtualbox
 
+# Install Yosys for synthesis
+sudo apt install yosys
+
+# Install Icarus Verilog for simulation
+sudo apt install iverilog
+
+# Install GTKWave for waveform viewing
+sudo apt install gtkwave
+
+
